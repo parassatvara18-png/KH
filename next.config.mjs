@@ -5,4 +5,4 @@ const nextConfig = {
   basePath: "/KH"
 }
 
-export default nextConfig;
+export default nextConfig
