@@ -2,7 +2,7 @@ const nextConfig = {
   output: "export",
   images: { unoptimized: true },
   trailingSlash: true,
-  basePath: "/KH"
+  basePath: ''
 }
 
-export default nextConfig
+export default nextConfig;
